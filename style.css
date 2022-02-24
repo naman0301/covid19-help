@@ -10,13 +10,13 @@ h2{
 	margin-left: 225px;
 	margin-right: 222px;
 }
-.resp{
+#resp{
 	width: 100%;
 	height:auto;
 	height:450px;
 	margin-left: 225px;
 }
-.tp{
+.heading{
 	margin-top: -1%;
 	background-color: #ffb300;
 	color:#ffffff;
@@ -27,10 +27,11 @@ h2{
 	width: 99.2%;
 	margin-left: -0.7%;
 }
-.f1{
-	margin-left:15%;
+.alignments{
+	width:150px; 
+	height:150px;
 }
-#p1{
+.p1{
 	padding: 10px 0px;
 	background-color: #1a038d;
 	color:white;
@@ -39,7 +40,7 @@ h2{
 		font-size: 17px;
 	font-family: calibri;
 }
-#pp1,#pp2,#pp3,#pp4,#pp5,#pp6{  
+.ans{  
 	background-color:#ffffff;
 	margin-left: 225px;
 	margin-right: 222px;
@@ -48,7 +49,7 @@ h2{
 	font-family: calibri;
 	line-height:2.3;
 }
-#sb{
+.imp{
 	background-color:#ffb300;
 }
 .ft{
